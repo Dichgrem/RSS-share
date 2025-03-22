@@ -1,0 +1,26 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Miniflux</title>
+        <dateCreated>Wed, 10 Apr 2024 15:19:40 UTC</dateCreated>
+    </head>
+    <body>
+        <outline text="编程">
+            <outline title="FreeBuf 关注黑客" text="FreeBuf 关注黑客" xmlUrl="https://plink.anyfeeder.com/freebuf" htmlUrl="https://plink.anyfeeder.com/freebuf" type="rss"></outline>
+            <outline title="GitChat" text="GitChat" xmlUrl="https://rsshub.app/gitchat/newest" htmlUrl="https://gitbook.cn/" type="rss"></outline>
+            <outline title="Github Trending" text="Github Trending" xmlUrl="https://rsshub.app/github/trending/daily" htmlUrl="https://github.com/trending/?since=daily" type="rss"></outline>
+            <outline title="Python_博客园" text="Python_博客园" xmlUrl="http://www.cnblogs.com/cate/python/rss" htmlUrl="http://www.cnblogs.com/cate/python/" type="rss"></outline>
+            <outline title="Readhub / 开发者资讯" text="Readhub / 开发者资讯" xmlUrl="https://plink.anyfeeder.com/readhub/technews" htmlUrl="https://plink.anyfeeder.com/readhub/technews" type="rss"></outline>
+            <outline title="开发者头条" text="开发者头条" xmlUrl="https://plink.anyfeeder.com/toutiao.io" htmlUrl="https://plink.anyfeeder.com/toutiao.io" type="rss"></outline>
+            <outline title="推酷《编程狂人》周刊" text="推酷《编程狂人》周刊" xmlUrl="http://www.tuicool.com/mags/rss_programming.rss" htmlUrl="https://www.tuicool.com/mags" type="rss"></outline>
+            <outline title="CSS-Tricks" text="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/" htmlUrl="https://css-tricks.com/feed/" type="rss"></outline>
+            <outline title="HelloGitHub 月刊" text="HelloGitHub 月刊" xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com" type="rss"></outline>
+            <outline title="web.dev" text="web.dev" xmlUrl="https://web.dev/feed.xml" htmlUrl="https://web.dev/feed.xml" type="rss"></outline>
+            <outline title="安全客-有思想的安全新媒体" text="安全客-有思想的安全新媒体" xmlUrl="https://api.anquanke.com/data/v1/rss" htmlUrl="https://www.anquanke.com" type="rss"></outline>
+            <outline title="开源中国-软件更新资讯" text="开源中国-软件更新资讯" xmlUrl="https://rsshub.app/oschina/news/project" htmlUrl="https://www.oschina.net/news/project" type="rss"></outline>
+            <outline title="技术头条" text="技术头条" xmlUrl="https://rsshub.app/blogread/newest" htmlUrl="http://blogread.cn/news/newest.php" type="rss"></outline>
+            <outline title="掘金本周最热" text="掘金本周最热" xmlUrl="https://rsshub.app/juejin/trending/all/weekly" htmlUrl="https://juejin.im/recommended?sort=weekly_hottest" type="rss"></outline>
+            <outline title="美团技术团队" text="美团技术团队" xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/" type="rss"></outline>
+        </outline>
+    </body>
+</opml>

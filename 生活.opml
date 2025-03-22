@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Miniflux</title>
+        <dateCreated>Wed, 10 Apr 2024 15:19:40 UTC</dateCreated>
+    </head>
+    <body>
+        <outline text="生活">
+            <outline title="三联生活周刊" text="三联生活周刊" xmlUrl="https://plink.anyfeeder.com/weixin/lifeweek" htmlUrl="https://plink.anyfeeder.com/weixin/lifeweek" type="rss"></outline>
+            <outline title="单读" text="单读" xmlUrl="https://plink.anyfeeder.com/weixin/dandureading" htmlUrl="https://plink.anyfeeder.com/weixin/dandureading" type="rss"></outline>
+            <outline title="历史上的今天" text="历史上的今天" xmlUrl="https://feedx.run/rss/wikihistory.xml" htmlUrl="https://www.wikipedia.org" type="rss"></outline>
+            <outline title="潮流周刊" text="潮流周刊" xmlUrl="https://weekly.tw93.fun/rss.xml" htmlUrl="https://weekly.tw93.fun/" type="rss"></outline>
+            <outline title="煎蛋" text="煎蛋" xmlUrl="https://plink.anyfeeder.com/jiandan" htmlUrl="https://plink.anyfeeder.com/jiandan" type="rss"></outline>
+            <outline title="理想生活实验室" text="理想生活实验室" xmlUrl="https://plink.anyfeeder.com/toodaylab" htmlUrl="https://plink.anyfeeder.com/toodaylab" type="rss"></outline>
+        </outline>
+    </body>
+</opml>

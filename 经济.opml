@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Miniflux</title>
+        <dateCreated>Wed, 10 Apr 2024 15:19:40 UTC</dateCreated>
+    </head>
+    <body>
+        <outline text="经济">
+            <outline title="经济观察网" text="经济观察网" xmlUrl="https://plink.anyfeeder.com/eeo" htmlUrl="https://plink.anyfeeder.com/eeo" type="rss"></outline>
+            <outline title="财富中文网 / 领导力" text="财富中文网 / 领导力" xmlUrl="https://plink.anyfeeder.com/fortunechina/lindgaoli" htmlUrl="https://plink.anyfeeder.com/fortunechina/lindgaoli" type="rss"></outline>
+            <outline title="华尔街见闻" text="华尔街见闻" xmlUrl="https://plink.anyfeeder.com/weixin/wallstreetcn" htmlUrl="https://plink.anyfeeder.com/weixin/wallstreetcn" type="rss"></outline>
+            <outline title="喷嚏网 / 财经风云" text="喷嚏网 / 财经风云" xmlUrl="https://plink.anyfeeder.com/dapenti/caijing" htmlUrl="https://plink.anyfeeder.com/dapenti/caijing" type="rss"></outline>
+            <outline title="新经济100人" text="新经济100人" xmlUrl="https://plink.anyfeeder.com/weixin/qiyejiagc" htmlUrl="https://plink.anyfeeder.com/weixin/qiyejiagc" type="rss"></outline>
+            <outline title="界面新闻: 财经" text="界面新闻: 财经" xmlUrl="https://plink.anyfeeder.com/jiemian/finance" htmlUrl="https://plink.anyfeeder.com/jiemian/finance" type="rss"></outline>
+            <outline title="经济日报" text="经济日报" xmlUrl="https://plink.anyfeeder.com/jingjiribao" htmlUrl="https://plink.anyfeeder.com/jingjiribao" type="rss"></outline>
+            <outline title="财富中文网" text="财富中文网" xmlUrl="https://plink.anyfeeder.com/fortunechina" htmlUrl="https://plink.anyfeeder.com/fortunechina" type="rss"></outline>
+            <outline title="雪球 / 今日话题" text="雪球 / 今日话题" xmlUrl="https://plink.anyfeeder.com/xueqiu/today" htmlUrl="https://plink.anyfeeder.com/xueqiu/today" type="rss"></outline>
+        </outline>
+    </body>
+</opml>

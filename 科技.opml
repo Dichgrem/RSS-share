@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Miniflux</title>
+        <dateCreated>Wed, 10 Apr 2024 15:19:40 UTC</dateCreated>
+    </head>
+    <body>
+        <outline text="科技">
+            <outline title="Collaborative Fund" text="Collaborative Fund" xmlUrl="http://feeds.feedburner.com/collabfund1" htmlUrl="https://collabfund.com/blog/" type="rss"></outline>
+            <outline title="Geekpark | 极客公园" text="Geekpark | 极客公园" xmlUrl="https://rsshub.app/geekpark/breakingnews" htmlUrl="https://www.geekpark.net/" type="rss"></outline>
+            <outline title="Quanta Magazine" text="Quanta Magazine" xmlUrl="https://rsshub.app/quantamagazine/archive" htmlUrl="https://www.quantamagazine.org/" type="rss"></outline>
+            <outline title="Readhub / 区块链快讯" text="Readhub / 区块链快讯" xmlUrl="https://plink.anyfeeder.com/readhub/blockchain" htmlUrl="https://plink.anyfeeder.com/readhub/blockchain" type="rss"></outline>
+            <outline title="Readhub / 每日早报" text="Readhub / 每日早报" xmlUrl="https://plink.anyfeeder.com/readhub/daily" htmlUrl="https://plink.anyfeeder.com/readhub/daily" type="rss"></outline>
+            <outline title="Readhub / 热门话题" text="Readhub / 热门话题" xmlUrl="https://plink.anyfeeder.com/readhub/topic" htmlUrl="https://plink.anyfeeder.com/readhub/topic" type="rss"></outline>
+            <outline title="凌陨心" text="凌陨心" xmlUrl="http://www.laobiao.fun/rss.xml" htmlUrl="http://www.laobiao.fun" type="rss"></outline>
+            <outline title="品玩" text="品玩" xmlUrl="https://plink.anyfeeder.com/pingwest" htmlUrl="https://plink.anyfeeder.com/pingwest" type="rss"></outline>
+            <outline title="数字尾巴" text="数字尾巴" xmlUrl="https://plink.anyfeeder.com/dgtle" htmlUrl="https://plink.anyfeeder.com/dgtle" type="rss"></outline>
+            <outline title="湾区日报" text="湾区日报" xmlUrl="https://wanqu.co/feed/" htmlUrl="https://wanqu.co/feed/" type="rss"></outline>
+            <outline title="猎云网" text="猎云网" xmlUrl="https://plink.anyfeeder.com/lieyunwang" htmlUrl="https://plink.anyfeeder.com/lieyunwang" type="rss"></outline>
+            <outline title="美卡论坛 | 热门话题" text="美卡论坛 | 热门话题" xmlUrl="https://www.uscardforum.com/top.rss" htmlUrl="https://www.uscardforum.com/top" type="rss"></outline>
+            <outline title="老胡的周刊" text="老胡的周刊" xmlUrl="https://weekly.howie6879.cn/rss/rss.xml" htmlUrl="https://weekly.howie6879.com/" type="rss"></outline>
+            <outline title="1link.fun 科技周刊" text="1link.fun 科技周刊" xmlUrl="https://1link.fun/index.xml" htmlUrl="https://1link.fun" type="rss"></outline>
+            <outline title="36氪" text="36氪" xmlUrl="https://plink.anyfeeder.com/36kr" htmlUrl="https://plink.anyfeeder.com/36kr" type="rss"></outline>
+            <outline title="85.60×53.98卡粉订阅/提醒 - Telegram Channel" text="85.60×53.98卡粉订阅/提醒 - Telegram Channel" xmlUrl="https://rsshub.app/telegram/channel/DocOfCard" htmlUrl="https://t.me/s/DocOfCard" type="rss"></outline>
+            <outline title=" Apple Nuts - Telegram Channel" text=" Apple Nuts - Telegram Channel" xmlUrl="https://rsshub.app/telegram/channel/AppleNuts" htmlUrl="https://t.me/s/AppleNuts" type="rss"></outline>
+            <outline title="Ars Technica" text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com/" type="rss"></outline>
+            <outline title="Ask Hacker News Weekly" text="Ask Hacker News Weekly" xmlUrl="https://www.daemonology.net/hn-weekly-ask/index.rss" htmlUrl="https://www.daemonology.net/hn-weekly-ask/" type="rss"></outline>
+            <outline title="CEPA" text="CEPA" xmlUrl="https://cepa.org/feed/" htmlUrl="https://cepa.org/" type="rss"></outline>
+            <outline title="cnBeta" text="cnBeta" xmlUrl="https://plink.anyfeeder.com/cnbeta" htmlUrl="https://plink.anyfeeder.com/cnbeta" type="rss"></outline>
+            <outline title="Cooltools by KK" text="Cooltools by KK" xmlUrl="https://kk.org/cooltools/feed/" htmlUrl="https://kk.org/cooltools/" type="rss"></outline>
+            <outline title="Dense Discovery" text="Dense Discovery" xmlUrl="https://www.densediscovery.com/feed/" htmlUrl="https://www.densediscovery.com" type="rss"></outline>
+            <outline title="Engadget" text="Engadget" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com/" type="rss"></outline>
+            <outline title="Gizmodo" text="Gizmodo" xmlUrl="https://gizmodo.com/rss" htmlUrl="http://gizmodo.com/" type="rss"></outline>
+            <outline title="Hacker News Daily" text="Hacker News Daily" xmlUrl="https://www.daemonology.net/hn-daily/index.rss" htmlUrl="http://www.daemonology.net/hn-daily/" type="rss"></outline>
+            <outline title="HelloBTC | 白话区块链" text="HelloBTC | 白话区块链" xmlUrl="https://rsshub.app/hellobtc/information/latest" htmlUrl="https://www.hellobtc.com/" type="rss"></outline>
+            <outline title="IPhysResearch" text="IPhysResearch" xmlUrl="https://iphysresearch.github.io/blog/post/index.xml" htmlUrl="https://iphysresearch.github.io/blog/" type="rss"></outline>
+            <outline title="IT 之家" text="IT 之家" xmlUrl="https://plink.anyfeeder.com/ithome/it" htmlUrl="https://plink.anyfeeder.com/ithome/it" type="rss"></outline>
+            <outline title="lowinli&#39;s blog" text="lowinli&#39;s blog" xmlUrl="https://lowin.li/atom.xml" htmlUrl="https://lowin.li/" type="rss"></outline>
+            <outline title="MacRumors" text="MacRumors" xmlUrl="https://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com" type="rss"></outline>
+            <outline title="MacStories" text="MacStories" xmlUrl="https://www.macstories.net/feed/" htmlUrl="https://www.macstories.net" type="rss"></outline>
+            <outline title="MIT Technology Review" text="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/" type="rss"></outline>
+            <outline title="MIT 科技评论 - 本周热榜" text="MIT 科技评论 - 本周热榜" xmlUrl="https://rsshub.app/mittrchina/hot" htmlUrl="https://www.mittrchina.com/" type="rss"></outline>
+            <outline title="MIT 科技评论 / 本周热榜" text="MIT 科技评论 / 本周热榜" xmlUrl="https://plink.anyfeeder.com/mittrchina/hot" htmlUrl="https://plink.anyfeeder.com/mittrchina/hot" type="rss"></outline>
+            <outline title="Product Hunt Today Popular " text="Product Hunt Today Popular " xmlUrl="https://rsshub.app/producthunt/today" htmlUrl="https://www.producthunt.com/" type="rss"></outline>
+            <outline title="Quest Mobile" text="Quest Mobile" xmlUrl="https://rsshub.app/questmobile/report" htmlUrl="https://www.questmobile.com.cn/research/reports" type="rss"></outline>
+            <outline title="Readhub" text="Readhub" xmlUrl="https://rsshub.app/readhub" htmlUrl="https://readhub.cn/" type="rss"></outline>
+            <outline title="Reeder" text="Reeder" xmlUrl="https://gloria.social/@rizzi.rss" htmlUrl="https://gloria.social/@rizzi" type="rss"></outline>
+            <outline title="Ryan&#39; Lab" text="Ryan&#39; Lab" xmlUrl="https://blog.gaoran.xyz/rss/feed.xml" htmlUrl="https://blog.gaoran.xyz/" type="rss"></outline>
+            <outline title="Sidebar" text="Sidebar" xmlUrl="https://sidebar.io/feed.xml" htmlUrl="https://sidebar.io" type="rss"></outline>
+            <outline title="Solidot" text="Solidot" xmlUrl="https://www.solidot.org/index.rss" htmlUrl="https://www.solidot.org/index.rss" type="rss"></outline>
+            <outline title="TechCrunch" text="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/" type="rss"></outline>
+            <outline title="The Atlantic" text="The Atlantic" xmlUrl="https://www.theatlantic.com/feed/all/" htmlUrl="https://www.theatlantic.com/" type="rss"></outline>
+            <outline title="The Macro Compass" text="The Macro Compass" xmlUrl="https://themacrocompass.substack.com/feed" htmlUrl="https://themacrocompass.substack.com/" type="rss"></outline>
+            <outline title="The New Yorker" text="The New Yorker" xmlUrl="https://feedx.net/rss/newyorker.xml" htmlUrl="https://www.newyorker.com/" type="rss"></outline>
+            <outline title="The Verge " text="The Verge " xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/" type="rss"></outline>
+            <outline title="V2EX节点订阅" text="V2EX节点订阅" xmlUrl="https://www.v2ex.com/feed/qna.xml" htmlUrl="https://www.v2ex.com/planes" type="rss"></outline>
+            <outline title="Wired" text="Wired" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com" type="rss"></outline>
+            <outline title="YiMagazine | 第一财经" text="YiMagazine | 第一财经" xmlUrl="https://rsshub.app/cbnweek" htmlUrl="https://www.cbnweek.com/" type="rss"></outline>
+            <outline title="人人都是产品经理" text="人人都是产品经理" xmlUrl="https://rsshub.app/woshipm/popular" htmlUrl="https://www.woshipm.com" type="rss"></outline>
+            <outline title="华尔街日报" text="华尔街日报" xmlUrl="https://feedx.net/rss/wsj.xml" htmlUrl="https://cn.wsj.com/" type="rss"></outline>
+            <outline title="奇趣周刊" text="奇趣周刊" xmlUrl="https://zishu.me/categories/weekly/index.xml" htmlUrl="https://zishu.me/categories/weekly/" type="rss"></outline>
+            <outline title="学习周刊" text="学习周刊" xmlUrl="https://wiki.eryajf.net/learning-weekly.xml" htmlUrl="https://wiki.eryajf.net/learning-weekly/" type="rss"></outline>
+            <outline title="小众软件" text="小众软件" xmlUrl="https://feeds.appinn.com/appinns/" htmlUrl="https://www.appinn.com" type="rss"></outline>
+            <outline title="小众软件" text="小众软件" xmlUrl="https://plink.anyfeeder.com/appinn" htmlUrl="https://plink.anyfeeder.com/appinn" type="rss"></outline>
+            <outline title="少数派 / Matrix" text="少数派 / Matrix" xmlUrl="https://plink.anyfeeder.com/ssapi/matrix" htmlUrl="https://plink.anyfeeder.com/ssapi/matrix" type="rss"></outline>
+            <outline title="巴伦周刊" text="巴伦周刊" xmlUrl="https://rsshub.app/barronschina" htmlUrl="https://www.barronschina.com.cn/index/shortNews" type="rss"></outline>
+            <outline title="快科技" text="快科技" xmlUrl="https://plink.anyfeeder.com/mydrivers" htmlUrl="https://plink.anyfeeder.com/mydrivers" type="rss"></outline>
+            <outline title="新浪专栏 / 创事记" text="新浪专栏 / 创事记" xmlUrl="https://plink.anyfeeder.com/sina/csj" htmlUrl="https://plink.anyfeeder.com/sina/csj" type="rss"></outline>
+            <outline title="机核" text="机核" xmlUrl="https://plink.anyfeeder.com/gcores" htmlUrl="https://plink.anyfeeder.com/gcores" type="rss"></outline>
+            <outline title="极客公园" text="极客公园" xmlUrl="https://plink.anyfeeder.com/geekpark" htmlUrl="https://plink.anyfeeder.com/geekpark" type="rss"></outline>
+            <outline title="果壳网 / 科学人" text="果壳网 / 科学人" xmlUrl="https://plink.anyfeeder.com/guokr/scientific" htmlUrl="https://plink.anyfeeder.com/guokr/scientific" type="rss"></outline>
+            <outline title="歌词经理" text="歌词经理" xmlUrl="https://blog.lyric.im/lyric/feed/atom" htmlUrl="https://blog.lyric.im/" type="rss"></outline>
+            <outline title="段永平最新关注的股票" text="段永平最新关注的股票" xmlUrl="https://rsshub.app/xueqiu/user_stock/1247347556" htmlUrl="https://xueqiu.com/u/1247347556#/stock" type="rss"></outline>
+            <outline title="段永平 @雪球" text="段永平 @雪球" xmlUrl="https://rsshub.app/xueqiu/user/1247347556" htmlUrl="https://xueqiu.com/u/1247347556" type="rss"></outline>
+            <outline title="爱范儿" text="爱范儿" xmlUrl="https://plink.anyfeeder.com/ifanr" htmlUrl="https://plink.anyfeeder.com/ifanr" type="rss"></outline>
+            <outline title="独立开发变现周刊" text="独立开发变现周刊" xmlUrl="https://www.ezindie.com/feed/rss.xml" htmlUrl="https://www.ezindie.com/weekly" type="rss"></outline>
+            <outline title="老司机周报" text="老司机周报" xmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom" htmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases" type="rss"></outline>
+            <outline title="腾讯新闻潜望" text="腾讯新闻潜望" xmlUrl="https://rsshub.app/tencent/news/author/5378209" htmlUrl="https://new.qq.com/omn/author/5378209" type="rss"></outline>
+            <outline title="艾瑞产业研究报告" text="艾瑞产业研究报告" xmlUrl="https://rsshub.app/iresearch/report" htmlUrl="http://www.iresearch.com.cn/m/report.shtml" type="rss"></outline>
+            <outline title="虎嗅" text="虎嗅" xmlUrl="https://plink.anyfeeder.com/huxiu" htmlUrl="https://plink.anyfeeder.com/huxiu" type="rss"></outline>
+            <outline title="赵容部落" text="赵容部落" xmlUrl="https://rsshub.app/zrblog" htmlUrl="https://www.zrblog.net/" type="rss"></outline>
+            <outline title="超能网" text="超能网" xmlUrl="https://plink.anyfeeder.com/expreview" htmlUrl="https://plink.anyfeeder.com/expreview" type="rss"></outline>
+            <outline title="软餐 - 新鲜软件资讯" text="软餐 - 新鲜软件资讯" xmlUrl="https://plink.anyfeeder.com/ruancan" htmlUrl="https://plink.anyfeeder.com/ruancan" type="rss"></outline>
+            <outline title="透明日报" text="透明日报" xmlUrl="https://daily.xlab.app/atom.xml" htmlUrl="https://daily.xlab.app/" type="rss"></outline>
+            <outline title="酷安 编辑精选" text="酷安 编辑精选" xmlUrl="https://rsshub.app/coolapk/tuwen" htmlUrl="https://www.coolapk.com/editorChoice" type="rss"></outline>
+            <outline title="钛媒体" text="钛媒体" xmlUrl="https://plink.anyfeeder.com/tmtpost" htmlUrl="https://plink.anyfeeder.com/tmtpost" type="rss"></outline>
+            <outline title="雪球用户动态" text="雪球用户动态" xmlUrl="https://rsshub.app/xueqiu/user/1955602780" htmlUrl="https://xueqiu.com/u/1955602780" type="rss"></outline>
+            <outline title="雷峰网" text="雷峰网" xmlUrl="https://plink.anyfeeder.com/leiphone" htmlUrl="https://plink.anyfeeder.com/leiphone" type="rss"></outline>
+            <outline title="麦肯锡 - 洞见" text="麦肯锡 - 洞见" xmlUrl="https://rsshub.app/mckinsey/cn" htmlUrl="https://www.mckinsey.com.cn/insights" type="rss"></outline>
+        </outline>
+    </body>
+</opml>

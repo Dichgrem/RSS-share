@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Miniflux</title>
+        <dateCreated>Wed, 10 Apr 2024 15:19:40 UTC</dateCreated>
+    </head>
+    <body>
+        <outline text="知识">
+            <outline title="简书: 热门" text="简书: 热门" xmlUrl="https://plink.anyfeeder.com/jianshu/trending/weekly" htmlUrl="https://plink.anyfeeder.com/jianshu/trending/weekly" type="rss"></outline>
+            <outline title="BBC 英语教学" text="BBC 英语教学" xmlUrl="https://plink.anyfeeder.com/bbc/learningenglish" htmlUrl="https://plink.anyfeeder.com/bbc/learningenglish" type="rss"></outline>
+            <outline title="InfoQ 中文" text="InfoQ 中文" xmlUrl="https://plink.anyfeeder.com/infoq/recommend" htmlUrl="https://plink.anyfeeder.com/infoq/recommend" type="rss"></outline>
+            <outline title="中国国家地理" text="中国国家地理" xmlUrl="https://plink.anyfeeder.com/weixin/dili360" htmlUrl="https://plink.anyfeeder.com/weixin/dili360" type="rss"></outline>
+            <outline title="人人都是产品经理" text="人人都是产品经理" xmlUrl="https://www.woshipm.com/feed" htmlUrl="https://www.woshipm.com" type="rss"></outline>
+            <outline title="少数派" text="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com" type="rss"></outline>
+            <outline title="异次元软件世界" text="异次元软件世界" xmlUrl="https://feed.iplaysoft.com" htmlUrl="https://www.iplaysoft.com" type="rss"></outline>
+            <outline title="环球科学" text="环球科学" xmlUrl="https://plink.anyfeeder.com/weixin/ScientificAmerican" htmlUrl="https://plink.anyfeeder.com/weixin/ScientificAmerican" type="rss"></outline>
+            <outline title="知乎日报" text="知乎日报" xmlUrl="https://plink.anyfeeder.com/zhihu/daily" htmlUrl="https://plink.anyfeeder.com/zhihu/daily" type="rss"></outline>
+            <outline title="简书 / 首页" text="简书 / 首页" xmlUrl="https://plink.anyfeeder.com/jianshu/home" htmlUrl="https://plink.anyfeeder.com/jianshu/home" type="rss"></outline>
+            <outline title="维基百科优良条目" text="维基百科优良条目" xmlUrl="https://zh.wikipedia.org/w/api.php?action=featuredfeed&amp;feed=good&amp;feedformat=atom" htmlUrl="https://zh.wikipedia.org/w/api.php?action=featuredfeed&amp;feed=good&amp;feedformat=atom" type="rss"></outline>
+            <outline title="观止·每日一文" text="观止·每日一文" xmlUrl="https://plink.anyfeeder.com/meiriyiwen" htmlUrl="https://plink.anyfeeder.com/meiriyiwen" type="rss"></outline>
+        </outline>
+    </body>
+</opml>
